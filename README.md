@@ -49,4 +49,18 @@ pipeline.save_model('models/trained_model.pkl')
 
 ## Configuration
 Refer to the `config.yaml` file for customizing preprocessing steps, feature engineering techniques, and model parameters.
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+
 
