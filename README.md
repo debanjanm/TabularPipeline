@@ -14,9 +14,9 @@ TabularPipeline is a robust and efficient pipeline designed for handling tabular
 ```bash
 pip install tabularpipeline
 
-Usage
-Example Workflow
-
+## Usage
+## Example Workflow
+```bash
 from tabularpipeline import TabularPipeline
 
 # Initialize the pipeline
